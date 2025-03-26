@@ -1,1 +1,1 @@
-kod fixlendi amk yenisi profilde paylasildi
+kod fixlendi amk yenisi paylasilmayacak suan bızde fıxlıyoruz bısıler
