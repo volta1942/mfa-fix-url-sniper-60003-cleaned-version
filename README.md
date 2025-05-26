@@ -5,4 +5,4 @@ buraya const token = '';
 const password = ''; 
 const serverId = ''; bu değişkenler gönderiliyorken 
 temizledim yani alın kullanın bu tür veletlerin ne yapacağı belli olmaz
-yapamazsan discordum fe_. 😺
+yapamazsan discordum volta1942 😁
